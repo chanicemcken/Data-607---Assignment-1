@@ -1,0 +1,11 @@
+---
+title: "Student Social Media Addiction Analysis"
+format: html
+editor: visual
+---
+
+## Introduction
+
+This project analyzes the *Student Social Media Addiction Analysis* dataset, which contains demographic, academic, and behavioral variables related to social media usage among students. The dataset was obtained from Kaggle and includes measures such as daily usage time, academic performance indicators, and self-reported addiction-related behaviors (<https://www.kaggle.com/datasets/zahranusratt/student-social-media-addiction-analysis-dataset>).
+
+To tackle this problem, I will begin with exploratory data analysis to understand usage patterns and relationships between social media behavior and academic outcomes, followed by visual and statistical comparisons across demographic groups. Anticipated challenges include handling self-reported bias, addressing missing or inconsistent responses, and determining appropriate methods to quantify and interpret addiction-related variables.
